@@ -1,2 +1,5 @@
 # gmsv_evinterface_win32
-C++ module to interface Managed C# COM library
+C++ module using common language runtime(COM) to interface C# Managed COM library
+
+Managed C# Library
+https://github.com/ThomasCaiazzo/EvInterfaceSet
